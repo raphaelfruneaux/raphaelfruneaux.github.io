@@ -8,7 +8,7 @@ h1 {
   padding-top: 150px;
   text-align: center;
 }
-a {
+small, a {
   color: #555;
   font-size: 14px;
 }
