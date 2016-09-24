@@ -3,4 +3,8 @@ node_modules
 
 # other files
 .DS_Store
-bg1.jpg
+
+# images
+/resources/images
+/assets/images/bg2.jpg
+/assets/images/bg4.jpg
